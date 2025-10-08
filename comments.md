@@ -1,5 +1,5 @@
-Ravel
-1st movement
+# Ravel
+## 1st movement
 
 Opening - really make sure it’s very even. Of course you can show a bit when it goes to the “V” chord and then back, but try to go for consistency in texture. When the chords start, make sure you really know the shape of the chords, since some of them you have to play the white key in between two black ones (like the F# minor)
 
@@ -14,7 +14,7 @@ In the big cascade coming down before the 8th note rhythms return (reh. 29), I w
 At reh. 29, those chords every 4 measures, make sure they’re long enough that we hear the pitches and the quality of the chord. Just so you know, in the full score, the right hand goes up an octave the second phrase, then back down:
 
 
-Reh. 32 and 33 - no rushing, and maybe you can start adding some pedal, definitely by 33, just for the left hand arp up, and then can be off. I think you really need to feel how the groups of 3 interact with the 2/2 measure. This whole section til the end will be easier if it’s not too fast!
+Reh. 32 and 33 - no rushing, and maybe you can start adding some pedal, definitely by 33, just for the left hand arp up, and then can be off. I think you really need to feel how the groups of 3 interact with the 2/2 measure. This whole section til the end will be easier if it’s not too fast! I would also bring out a bit more than you are doing the first notes of each group of 4 climbing up to the final G major arpeggios.
 
 
 2nd movement
