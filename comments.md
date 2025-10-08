@@ -22,7 +22,9 @@ I think the crucial thing is to still feel the piece in ¾, not 6/8. With my arm
 
 3rd movement
 Tempo is okay, but don’t rush! (Use metronome). In rehearsal 3, make sure the accents are in the correct place, and that you do them (especially the F > toward the end). Reh. 5 - more sparkly sound, less pedal and less legato. Reh. 6, voice the left hand softer so it won’t sound like the two hands are clashing, and when they desynchronize, it won’t be as obvious (though ideally, it shouldn’t desync!).
-Reh. 9, left hand make sure it’s placed exactly correct, and also probably need to play it a bit louder (because we naturally play the right hand louder). Between reh 11 and 12, steady! 
+Reh. 9, left hand make sure it’s placed exactly correct, and also probably need to play it a bit louder (because we naturally play the right hand louder). Between reh 11 and 12, steady! I think the stride bass part also will be easier if you are steady, and voice a bit more to the right hand.
+You end on the wrong note! It’s a G, not Eb.
+
 You end on the wrong note! It’s a G, not Eb.
 
 
