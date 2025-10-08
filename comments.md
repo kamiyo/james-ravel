@@ -3,11 +3,12 @@
 
 Opening - really make sure it’s very even. Of course you can show a bit when it goes to the “V” chord and then back, but try to go for consistency in texture. When the chords start, make sure you really know the shape of the chords, since some of them you have to play the white key in between two black ones (like the F# minor)
 
-Main theme - I’m used to rolling the 4th beat (because of Argerich’s recording, lol). But I think more importantly, think of it like a two note slur from D-G to C#-F#.
+Main theme - I’m used to rolling the 4th beat (because of Argerich’s recording, lol). But I think more importantly, think of it like a two note slur from D-G to C#-F#. Same as after the oscilatting octave C#'s
 [example1.mp3](example1.mp3)
-
+[example2.mp3](example2.mp3)
 
 2nd theme, nice. I do think the last part of it can have clearer phrasing.
+[example3.mp3](example4.mp4)
 
 Cadenza, can have a bit more timing to allow for the phrasing to happen, just in general. 3rd measure of the cadenza, make sure to change your pedal somewhere so that the F natural doesn’t clash too long with the F# beforehand. The E trill to G trill in the 3rd measure in the right hand should be sort of a shadow or imitation of the melodic E to G in the left hand at the beginning of the measure. 7th Measure of the cadenza, you added an E as the last note of the first group of 16th notes in the left hand (it should jump from C to G). In the second part of the cadenza, the right hand has the melody, and I want you to think of trills as sort of an old-timey singer doing a big vibrato.
 
