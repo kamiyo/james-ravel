@@ -3,7 +3,9 @@
 
 Opening - really make sure it’s very even. Of course you can show a bit when it goes to the “V” chord and then back, but try to go for consistency in texture. When the chords start, make sure you really know the shape of the chords, since some of them you have to play the white key in between two black ones (like the F# minor)
 
-Main theme - I’m used to rolling the 4th beat (because of Argerich’s recording, lol). But I think more importantly, think of it like a two note slur from D-G to C#-F#
+Main theme - I’m used to rolling the 4th beat (because of Argerich’s recording, lol). But I think more importantly, think of it like a two note slur from D-G to C#-F#.
+[example1.mp3](example1.mp3)
+
 
 2nd theme, nice. I do think the last part of it can have clearer phrasing.
 
@@ -12,6 +14,7 @@ Cadenza, can have a bit more timing to allow for the phrasing to happen, just in
 In the big cascade coming down before the 8th note rhythms return (reh. 29), I wouldn’t go full speed - try to keep same tempo, because I think the conductor will have to conduct. Maybe accel through it would be okay, doesn’t have to be strictly in time, but perhaps it goes too fast immediately.
 
 At reh. 29, those chords every 4 measures, make sure they’re long enough that we hear the pitches and the quality of the chord. Just so you know, in the full score, the right hand goes up an octave the second phrase, then back down:
+![ravel score](screenshot.png)
 
 
 Reh. 32 and 33 - no rushing, and maybe you can start adding some pedal, definitely by 33, just for the left hand arp up, and then can be off. I think you really need to feel how the groups of 3 interact with the 2/2 measure. This whole section til the end will be easier if it’s not too fast! I would also bring out a bit more than you are doing the first notes of each group of 4 climbing up to the final G major arpeggios.
