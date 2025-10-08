@@ -24,7 +24,10 @@ Reh. 32 and 33 - no rushing, and maybe you can start adding some pedal, definite
 
 2nd movement
 I think the crucial thing is to still feel the piece in ¾, not 6/8. With my arm, I actually sort of do 3 2-note slurs. I think otherwise the right hand sounds nice, maybe can have slightly more rubato in some ends of phrases.
-![video](ravel2.mp4)
+
+https://github.com/user-attachments/assets/f243e61e-5eb7-4e80-9a9f-ed5b605fe691
+
+
 
 3rd movement
 Tempo is okay, but don’t rush! (Use metronome). In rehearsal 3, make sure the accents are in the correct place, and that you do them (especially the F > toward the end). Reh. 5 - more sparkly sound, less pedal and less legato. Reh. 6, voice the left hand softer so it won’t sound like the two hands are clashing, and when they desynchronize, it won’t be as obvious (though ideally, it shouldn’t desync!).
